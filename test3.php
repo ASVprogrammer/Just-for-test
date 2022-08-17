@@ -1,3 +1,3 @@
 <?php
-echo "You're on page 3";
+echo "You're on page three";
 ?>
